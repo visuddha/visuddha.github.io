@@ -1,3 +1,3 @@
 # visuddha.github.io
 
-Intial Commit
+Portfolio Website. Still in development.
