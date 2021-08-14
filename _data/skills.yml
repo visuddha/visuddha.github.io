@@ -5,7 +5,7 @@ languages:
   - item: CSS/Sass
   - item: Python
   - item: SQL
-  - item: R
+  - item: Scala
 
 frameworks:
   - item: Ember & Glimmer
