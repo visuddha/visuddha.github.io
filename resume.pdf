@@ -1,0 +1,98 @@
+%PDF-1.7
+%����
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 1250 >>
+stream
+BT
+/F1 24 Tf
+70 740 Td
+(Visuddha Karunaratne) Tj
+/F2 12 Tf
+70 715 Td
+(Location: San Diego, CA \xB7 Website: www.visuvious.com \xB7 LinkedIn: linkedin.com/in/visuddhak) Tj
+70 690 Td
+(Certifications: AWS Certified Solutions Architect \x96 Professional, DevOps Engineer \x96 Professional, Developer \x96 Associate, Data Analytics \x96 Specialty) Tj
+70 655 Td
+(SUMMARY) Tj
+/F1 14 Tf
+70 635 Td
+(AWS Cloud Engineer with expertise in IoT, automation, and bot-building. Proven ability to design and implement scalable cloud solutions leveraging AWS services. Skilled in developing automated pipelines and intelligent bots to optimize operational efficiency.) Tj
+/F2 12 Tf
+70 600 Td
+(SKILLS) Tj
+70 580 Td
+(\x2022 AWS: EC2, Lambda, S3, IoT Core, CloudFormation, CloudWatch) Tj
+70 560 Td
+(\x2022 DevOps: Jenkins, Docker, Terraform, Git) Tj
+70 540 Td
+(\x2022 Languages: Python, JavaScript, Bash) Tj
+70 510 Td
+(EXPERIENCE) Tj
+/F1 14 Tf
+70 490 Td
+(AWS Cloud Engineer | Visuvious Tech | 2019 - Present) Tj
+/F2 12 Tf
+70 470 Td
+(\x2022 Designed and maintained AWS IoT pipelines handling real-time device data ingestion and processing.) Tj
+70 450 Td
+(\x2022 Developed automation scripts and bots to streamline cloud infrastructure management and monitoring.) Tj
+70 430 Td
+(\x2022 Collaborated with cross-functional teams to deliver scalable cloud solutions supporting business growth.) Tj
+70 395 Td
+(PROJECTS) Tj
+/F1 14 Tf
+70 375 Td
+(Grid Trading Bot) Tj
+/F2 12 Tf
+70 355 Td
+(\x2022 Developed an automated grid trading bot using Python and AWS Lambda to execute trading strategies efficiently.) Tj
+70 335 Td
+(IoT Alerting System) Tj
+70 315 Td
+(\x2022 Built an alerting pipeline leveraging AWS IoT Core and CloudWatch to monitor device health and notify stakeholders.) Tj
+70 295 Td
+(Certificate Manager) Tj
+70 275 Td
+(\x2022 Created a certificate management tool to automate SSL certificate issuance and renewal processes.) Tj
+70 240 Td
+(EDUCATION) Tj
+/F1 14 Tf
+70 220 Td
+(Bhiksu University of Sri Lanka) Tj
+/F2 12 Tf
+70 200 Td
+(\x2022 Bachelor of Science in Computer Science) Tj
+70 180 Td
+(\x2022 Postgraduate Diploma in Cloud Computing) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000010 00000 n 
+0000000060 00000 n 
+0000000117 00000 n 
+0000000234 00000 n 
+0000001080 00000 n 
+0000001140 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+1195
+%%EOF
